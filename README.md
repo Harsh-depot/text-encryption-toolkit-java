@@ -138,10 +138,14 @@ Output: 5
 - Convert the toolkit into a web application using Spring Boot
 
 ---
+## Project Demo
+
+![Toolkit Demo](screenshots/toolkit-demo.png)
 
 ## 👨‍💻 Author
 
 **Harshvardhan Raj**
 
 B.Tech Computer Science  
+
 Java & Full Stack Development Enthusiast
